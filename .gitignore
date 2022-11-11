@@ -12,6 +12,8 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
+.appveyor.yml
+README.md
 .idea
 *.iws
 *.iml
